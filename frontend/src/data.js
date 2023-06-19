@@ -11,7 +11,7 @@ const data ={
             brand:"Nike",
             rating:4.5,
             numReviews:10,
-            description:"high quality product"
+            description:"high quality product",
         },
         {
             name : "Adidas Fit Shirt",
@@ -23,7 +23,7 @@ const data ={
             brand:"Adidas",
             rating:4.0,
             numReviews:10,
-            description:"high quality product"
+            description:"high quality product",
         },
         {
             name : "Nike Slim pant",
@@ -35,11 +35,11 @@ const data ={
             brand:"Nike",
             rating:4.5,
             numReviews:14,
-            description:"high quality product"
+            description:"high quality product",
         },
         {
-            name : "Nike Slim Shirt",
-            slug: "nike-slim-shirt",
+            name : "Adidas Fit Pant",
+            slug: "adidas-fit-pant",
             category:"shirt",
             image:"/frontend/public/images/p4.jpg",
             price: 65,
@@ -47,7 +47,7 @@ const data ={
             brand:"Puma",
             rating:4.5,
             numReviews:10,
-            description:"high quality shirt"
+            description:"high quality shirt",
         },
     ],
 };
